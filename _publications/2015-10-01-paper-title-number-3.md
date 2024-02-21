@@ -12,4 +12,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: M. Li, F. Su, O. Wu and J. Zhang. (2022). "Logit Perturbation." <i>AAAI2022</i>. 1(2).
