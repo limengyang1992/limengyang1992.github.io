@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Data Mining and Deep Learning, Tianjin University, China, 2025 (expected)
-* M.Eng. in Civil Aviation, Civil Aviation University of China, Tianjin, China, 2019
-* B.Eng. in Aeronautics, Zhengzhou University of Aeronautics, China, 2015
+* Ph.D in Data Mining and Deep Learning, Tianjin University, Tianjin, China, 2025 (expected)
+* M.Eng. in Control Science and Engineering, Civil Aviation University of China, Tianjin, China, 2019
+* B.Eng. in Automation, Zhengzhou University of Aeronautics, Zhengzhou, China, 2015
 
 Work Experience
 ======
