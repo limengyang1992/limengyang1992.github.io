@@ -17,8 +17,8 @@ Education
 
 Work Experience
 ======
-* 2019-2021: AI Technical Leader
-  * GitHub University
+* 2019-2021: AI Technical Lead
+  * Jiuantianxia Inc.
   * Duties include: AI Algorithm Design & Development
 
 
