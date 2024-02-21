@@ -6,7 +6,7 @@ excerpt: 'Logit Perturbation.'
 date: 2022-02-02
 venue: 'Journal 1'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/20024'
-citation: 'M. Li, F. Su, O. Wu and J. Zhang. (2022). &quot;Class-Level Logit Perturbation.&quot; <i>AAAI 2022</i>. 1(2).'
+citation: 'M. Li, F. Su, O. Wu and J. Zhang. (2022). &quot;Logit Perturbation.&quot; <i>AAAI 2022</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
