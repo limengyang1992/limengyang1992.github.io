@@ -11,9 +11,9 @@ title                    : "Mengyang Li"
 title_separator          : "-"
 name                     : &name "Mengyang Li"
 description              : &description "personal description"
-url                      : # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://limengyang1992.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
-repository               : # "academicpages/academicpages.github.io"
+repository               : "limengyang1992/limengyang1992.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
