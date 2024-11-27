@@ -23,7 +23,7 @@ author:
   avatar           : "me.png"
   name             : "Mengyang Li"
   pronouns         : "he/him"  
-  bio              : "Less is more"
+  bio              : # "Less is more"
   location         : "Tian jin"
   employer         : "Tianjin University"
   uri              : # URL
